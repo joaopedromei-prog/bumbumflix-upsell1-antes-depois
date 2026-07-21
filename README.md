@@ -6,7 +6,7 @@ Página de upsell do funil BumbumFlix (Acompanhamento **Musa Elite**), oferta do
 
 | Arquivo | Descrição |
 |---|---|
-| `upsell 1 tsl v2.html` | Página de upsell. Abre com "antes e depois" (3 depoimentos placeholder), hook "corpo dos sonhos" emendando no bloco dos 10 anos, carrossel infinito de depoimentos em imagem e depoimentos em estilo WhatsApp. |
+| `upsell-1-tsl-antes-e-depois.html` | Página de upsell. Abre com "antes e depois" (3 depoimentos placeholder), hook "corpo dos sonhos" emendando no bloco dos 10 anos, carrossel infinito de depoimentos em imagem e depoimentos em estilo WhatsApp. |
 | `upsell 1 tsl_files/` | Assets (CSS, imagens, scripts de pixel/checkout). |
 
 ## Como abrir
